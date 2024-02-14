@@ -1,0 +1,11 @@
+.body {
+    background-color: rgb(247, 245, 245);
+}
+.header {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.recipe {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
